@@ -1,5 +1,4 @@
 # hello-world
-test
 Hello!
 My name is Everett King-Brown.
 I like to bake and play video games.
